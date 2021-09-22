@@ -28,7 +28,7 @@ const CourseInput = (props) => {
       <div
         className={`${styles['form-control']} ${!isValid && styles.invalid}`}
       >
-        <label>Course Goal</label>
+        <label>To Do List</label>
         <input type="text" onChange={goalInputChangeHandler} />
       </div>
       <Button type="submit">Add Goal</Button>
