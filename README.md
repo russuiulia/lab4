@@ -14,5 +14,7 @@ The project is a simple to-do list.
 ![image](https://user-images.githubusercontent.com/51412651/134417847-48597c08-d5c9-46b8-8e35-b4645993f041.png)
 
 ## Used resources
-![image](https://user-images.githubusercontent.com/51412651/134419510-86b7f817-78b8-4e7c-93a7-431743d64b83.png)
-
+ - This site was built using [React](https://reactjs.org/) <img src="https://user-images.githubusercontent.com/51412651/134419510-86b7f817-78b8-4e7c-93a7-431743d64b83.png" width="35" height="30">
+ 
+ ## Milestones
+ -  [First upload](https://github.com/russuiulia/lab4/milestones)
