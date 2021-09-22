@@ -14,6 +14,5 @@ The project is a simple to-do list.
 ![image](https://user-images.githubusercontent.com/51412651/134417847-48597c08-d5c9-46b8-8e35-b4645993f041.png)
 
 ## Used resources
-![image](https://user-images.githubusercontent.com/51412651/134418338-3869f95d-98fa-4d83-be2b-b97a547fa544.png)
-
+![image](https://user-images.githubusercontent.com/51412651/134419510-86b7f817-78b8-4e7c-93a7-431743d64b83.png)
 
