@@ -2,7 +2,7 @@
 Russu Iulia, W-1841
 
 ## Wikipedia page associated to the project
-[Wiki](https://github.com/russuiulia/lab4/wiki)
+[Wiki project page](https://github.com/russuiulia/lab4/wiki)
 
 ## General presentation 
 The project is a simple to-do list.
